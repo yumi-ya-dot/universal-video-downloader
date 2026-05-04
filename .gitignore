@@ -5,6 +5,7 @@
 # Environment
 **/.env
 .env
+!backend/.env
 
 # Downloaded media
 backend/downloads/
