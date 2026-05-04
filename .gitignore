@@ -1,0 +1,33 @@
+# Python
+**/__pycache__/
+*.py[cod]
+
+# Environment
+**/.env
+.env
+
+# Downloaded media
+backend/downloads/
+
+# Frontend build and dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Logs
+*.log
+logs/
+
+# Project docs
+/doc/
+doc/
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
